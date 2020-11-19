@@ -6,3 +6,6 @@ word=input("enter a word: ")
 fun(word)
 if 1==1:
     pass
+else:
+    pass
+print("12323543526")
